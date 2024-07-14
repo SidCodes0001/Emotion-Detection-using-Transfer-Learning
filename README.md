@@ -44,7 +44,7 @@ Dataset i took it from kaggle. The quality of data was not up to the mark , ther
 
 
 ## Learnings from project
-
+- learned about cnn architecture 
 - Learned about transfer learning 
 - learned about data augmentation 
 - learned how to evaluate model performance using confusion matrix and classfication report 
